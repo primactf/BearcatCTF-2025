@@ -11,7 +11,6 @@ ColonialCTF's solutions for BearcatCTF 2025
 ## Forensics
 [Around the World](./forensics/around-the-world)
 
-
 ## Misc
 [Ohio Against The World](./misc/ohio-against-the-world)
 
@@ -21,6 +20,7 @@ ColonialCTF's solutions for BearcatCTF 2025
 [Curly Password](./passwords/curly-password)
 
 [City Crack](./passwords/city-crack)
+
 ## Pwn
 [OK Jail](./pwn/ok-jail)
 
