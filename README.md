@@ -1,5 +1,6 @@
 # BearcatCTF-2025
-ColonialCTF's solutions for BearcatCTF 2025
+PriMA's solutions for BearcatCTF 2025
+(Note: At the time of competition we went by ColonialCTF)
 
 ## Crypto
 [sqRSA](./crypto/sqRSA)
